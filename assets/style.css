@@ -6,3 +6,13 @@ body{
 .option{
   margin: 20 px;
 }
+
+#questions{
+  background-color: rgba(255,255,255, 0.5);
+  font-weight: bold;
+  font-size: 18px;
+}
+h1{
+  color: white;
+  font-weight: bolder;
+}
